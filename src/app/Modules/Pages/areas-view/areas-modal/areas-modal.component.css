@@ -1,0 +1,22 @@
+input{
+    border-radius: 5px;
+    
+}
+
+.modal-body{
+    background-color: #192239;
+    color: white;
+    padding: 10px !important;
+    border-radius: 10px !important;
+}
+app-areas-modal{
+    background-color:red !important;
+}
+
+.mdc-dialog .mdc-dialog__content{
+    padding: 0 !important;
+}
+
+.mdc-dialog .mdc-dialog__content{
+    padding: 0px !important;
+}
